@@ -56,7 +56,7 @@
         "express-validator": "^5.1.2",
         "helmet": "^3.18.0",
         "hdkey": "^1.1.1",
-        "highcharts": "^6.1.1",
+        "highcharts": "^7.2.2",
         "highcharts-vue": "^1.0.4",
         "js-yaml": "^3.13.1",
         "kue": "^0.11.6",
